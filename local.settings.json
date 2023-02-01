@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "db_password": "Rory0321",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=nsccw0454720funcwee92e2;AccountKey=IRaJuaR9h+8QwJ0rt48WD9XYVsd96pzVNs19Ykns4d3Q5r7j2mFR+soZ2TLnOlRcUuESpjuDLkkd+AStUnugsQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "edf4759c-7032-4d6c-8bfe-4c1dade69316",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=edf4759c-7032-4d6c-8bfe-4c1dade69316;IngestionEndpoint=https://canadacentral-1.in.applicationinsights.azure.com/;LiveEndpoint=https://canadacentral.livediagnostics.monitor.azure.com/",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=nsccw0454720funcwee92e2;AccountKey=IRaJuaR9h+8QwJ0rt48WD9XYVsd96pzVNs19Ykns4d3Q5r7j2mFR+soZ2TLnOlRcUuESpjuDLkkd+AStUnugsQ==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "nscc-w0454720-func-week3b1fb",
+    "WEBSITE_RUN_FROM_PACKAGE": "https://nsccw0454720funcwee92e2.blob.core.windows.net/function-releases/20230125222734-88a08db280c83bf8cecb6bf165d0965f.zip?sv=2020-10-02&st=2023-01-25T22%3A22%3A35Z&se=2033-01-25T22%3A27%3A35Z&sr=b&sp=r&sig=T%2FBBF8b9feP80gGjuB%2B4E7BxHbTyOD5FrkHcQKC4HG0%3D"
+  }
+}
